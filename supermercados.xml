@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <carrefour>
+      <direcion> C/ de Bailèn, 33, 08010 Barcelona</direcion>
+      <geolocalizacion>41.3939503182394, 2.175070992568285</geolocalizacion>
+      <nombre>Carrefour Express</nombre>
+      <secciones>
+         <element>
+            <nombreSeccion>charcutería</nombreSeccion>
+            <productos>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Jamón Serrano</nombre>
+                  <peso>70</peso>
+                  <precio>1.99</precio>
+                  <precioOferta>1.5</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>pavo </nombre>
+                  <peso>300</peso>
+                  <precio>1.29</precio>
+                  <precioOferta>0.99</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>lomo</nombre>
+                  <peso>400</peso>
+                  <precio>2.09</precio>
+                  <precioOferta>1.7</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+            </productos>
+         </element>
+         <element>
+            <nombreSeccion>frutería</nombreSeccion>
+            <productos>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Manzana roja</nombre>
+                  <peso>1</peso>
+                  <precio>2.5</precio>
+                  <precioOferta>1.1</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Manzana verde</nombre>
+                  <peso>2</peso>
+                  <precio>2.4</precio>
+                  <precioOferta>1.1</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>pera</nombre>
+                  <peso>1</peso>
+                  <precio>2.35</precio>
+                  <precioOferta>1.1</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+            </productos>
+         </element>
+      </secciones>
+   </carrefour>
+   <mercadona>
+      <direcion>Mercadona, C. del Consell de Cent, 366, 08009 Barcelona</direcion>
+      <geolocalizacion>41.39465350047542, 2.1704855847009803</geolocalizacion>
+      <nombre>Mercadona</nombre>
+      <secciones>
+         <element>
+            <nombreSeccion>Charcutería</nombreSeccion>
+            <productos>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Pate de oca</nombre>
+                  <peso>100</peso>
+                  <precio>3.4</precio>
+                  <precioOferta>2.5</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>jamon cocido</nombre>
+                  <peso>500</peso>
+                  <precio>2.29</precio>
+                  <precioOferta>1.99</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Bacon</nombre>
+                  <peso>400</peso>
+                  <precio>3.15</precio>
+                  <precioOferta>2.7</precioOferta>
+                  <unidadMedida>g</unidadMedida>
+               </element>
+            </productos>
+         </element>
+         <element>
+            <nombreSeccion>Frutería</nombreSeccion>
+            <productos>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Piña</nombre>
+                  <peso>1</peso>
+                  <precio>2.3</precio>
+                  <precioOferta>1.8</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Fresas</nombre>
+                  <peso>1</peso>
+                  <precio>3.4</precio>
+                  <precioOferta>2.1</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+               <element>
+                  <adquirido>false</adquirido>
+                  <nombre>Aguacates</nombre>
+                  <peso>1</peso>
+                  <precio>5.35</precio>
+                  <precioOferta>4.1</precioOferta>
+                  <unidadMedida>kg</unidadMedida>
+               </element>
+            </productos>
+         </element>
+      </secciones>
+   </mercadona>
+</root>

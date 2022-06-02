@@ -1,0 +1,132 @@
+{
+	"carrefour": {
+		"nombre": "Carrefour Express",
+		"direcion": " C/ de Bailèn, 33, 08010 Barcelona",
+		"geolocalizacion": "41.3939503182394, 2.175070992568285",
+		"secciones": [
+			{
+				"nombreSeccion": "charcutería",
+				"productos": [
+					{
+						"nombre": "Jamón Serrano",
+						"precio": 1.99,
+						"precioOferta": 1.50,
+						"adquirido": false,
+						"peso": 70,
+						"unidadMedida": "g"
+					},
+					{
+						"nombre": "pavo ",
+						"precio": 1.29,
+						"precioOferta": 0.99,
+						"adquirido": false,
+						"peso": 300,
+						"unidadMedida": "g"
+					},
+					{
+						"nombre": "lomo",
+						"precio": 2.09,
+						"precioOferta": 1.70,
+						"adquirido": false,
+						"peso": 400,
+						"unidadMedida": "g"
+					}
+				]
+			},
+			{
+				"nombreSeccion": "frutería",
+				"productos": [
+					{
+						"nombre": "Manzana roja",
+						"precio": 2.50,
+						"precioOferta": 1.10,
+						"adquirido": false,
+						"peso": 1,
+						"unidadMedida": "kg"
+					},
+					{
+						"nombre": "Manzana verde",
+						"precio": 2.40,
+						"precioOferta": 1.10,
+						"adquirido": false,
+						"peso": 2,
+						"unidadMedida": "kg"
+					},
+					{
+						"nombre": "pera",
+						"precio": 2.35,
+						"precioOferta": 1.10,
+						"adquirido": false,
+						"peso": 1,
+						"unidadMedida": "kg"
+					}
+				]
+			}
+		]
+	},
+	"mercadona": {
+		"nombre": "Mercadona",
+		"direcion": "Mercadona, C. del Consell de Cent, 366, 08009 Barcelona",
+		"geolocalizacion": "41.39465350047542, 2.1704855847009803",
+		"secciones": [
+			{
+				"nombreSeccion": "Charcutería",
+				"productos": [
+					{
+						"nombre": "Pate de oca",
+						"precio": 3.40,
+						"precioOferta": 2.50,
+						"adquirido": false,
+						"peso": 100,
+						"unidadMedida": "g"
+					},
+					{
+						"nombre": "jamon cocido",
+						"precio": 2.29,
+						"precioOferta": 1.99,
+						"adquirido": false,
+						"peso": 500,
+						"unidadMedida": "g"
+					},
+					{
+						"nombre": "Bacon",
+						"precio": 3.15,
+						"precioOferta": 2.70,
+						"adquirido": false,
+						"peso": 400,
+						"unidadMedida": "g"
+					}
+				]
+			},
+			{
+				"nombreSeccion": "Frutería",
+				"productos": [
+					{
+						"nombre": "Piña",
+						"precio": 2.30,
+						"precioOferta": 1.80,
+						"adquirido": false,
+						"peso": 1,
+						"unidadMedida": "kg"
+					},
+					{
+						"nombre": "Fresas",
+						"precio": 3.40,
+						"precioOferta": 2.10,
+						"adquirido": false,
+						"peso": 1,
+						"unidadMedida": "kg"
+					},
+					{
+						"nombre": "Aguacates",
+						"precio": 5.35,
+						"precioOferta": 4.10,
+						"adquirido": false,
+						"peso": 1,
+						"unidadMedida": "kg"
+					}
+				]
+			}
+		]
+	}
+}
